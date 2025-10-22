@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-szvuafji:0056d4ad88d4a1343a4fd1836ec2bdef79298628@sha256:30c6a6402a79980cf2fe8e5b1058adc0ca18fb96043bd90db5dfc4c3a4a963a1
+        - image: quay.io/rhtap_qe/go-szvuafji:863792435e03b492bc40415fecd1b08da4bdb1b5@sha256:2ffb43aed6eeeae3de2b83e98038fbc057253ebfd6c33eccc2b9f710bcae29d5
           name: container-image
